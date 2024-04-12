@@ -1,0 +1,4 @@
+ignore*
+id*
+metastore_db/
+derby.log
